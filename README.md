@@ -32,6 +32,10 @@ PSIT Virtual Labs is an innovative web-based platform designed to bring laborato
 
 ---
 
+## 🌐LIVE DEMO
+ [PSIT Virtual Labs](https://psit-virtual-labs-d63a34.netlify.app/index1.html)
+ 
+
 ## 🛠️ Technology Stack
 
 <div align="center">
