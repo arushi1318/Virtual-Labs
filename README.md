@@ -310,7 +310,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ for PSIT Students**
 
-![PSIT Logo](logo.png)
+
 
 *Empowering education through virtual experimentation*
 
