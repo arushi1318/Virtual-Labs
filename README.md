@@ -253,11 +253,7 @@ We welcome contributions from students, educators, and developers! Here's how yo
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-### **📝 Code of Conduct:**
-- Be respectful and inclusive
-- Provide constructive feedback
-- Follow existing code style
-- Test your changes thoroughly
+
 
 ---
 
@@ -280,7 +276,7 @@ We welcome contributions from students, educators, and developers! Here's how yo
 
 
 
----
+
 
 ## 📜 License
 
