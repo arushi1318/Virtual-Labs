@@ -276,15 +276,7 @@ We welcome contributions from students, educators, and developers! Here's how yo
 
 ---
 
-## 📞 Contact & Support
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail)](mailto:psitvirtual@example.com)
-[![Website](https://img.shields.io/badge/Website-PSIT%20Kanpur-green?style=for-the-badge&logo=chrome)](https://www.psit.ac.in/)
-[![Issues](https://img.shields.io/badge/Issues-Report%20Problem-red?style=for-the-badge&logo=github)](https://github.com/arushi1318/Virtual-Labs/issues)
-
-</div>
 
 
 
