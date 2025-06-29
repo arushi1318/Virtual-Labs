@@ -153,7 +153,7 @@ Visit the Live Platform: [PSIT Virtual Labs](https://psit-virtual-labs-d63a34.ne
 
 </details>
 
-### 🔌 **Circuit Analysis (CR)**
+### 🔌 **Cyptography Lab (CR)**
 <details>
 <summary>📋 Click to expand and see all experiments</summary>
 
