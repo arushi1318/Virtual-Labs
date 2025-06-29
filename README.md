@@ -227,26 +227,12 @@ The platform is fully responsive and works seamlessly on:
 
 ---
 
-## 👥 Meet Our Team
 
-<div align="center">
 
-| **Role** | **Name** | **Email** | **Department** |
-|----------|----------|-----------|----------------|
-| 🎯 **Team Lead** | Akshat Trivedi | akshattrivedi394@gmail.com | IT (3rd Year) |
-| 🎨 **UI/UX Developer** | Arushi Gupta | arushigupta1818@gmail.com | IT (3rd Year) |
-| 🧠 **AI/ML Specialist** | Kshama Mishra | kshamamishra1104@gmail.com | CS AI (2nd Year) |
-| 🔧 **Backend Developer** | Dhruv Tripathi | 01dhruvtripathi@gmail.com | IT (2nd Year) |
-| 🎛️ **Electronics Expert** | Gagandeep Singh | gagandeep_singh@ieee.org | IT (2nd Year) |
-| 📊 **Data Analyst** | Anshika Srivastava | anshika.srivastava1803@gmail.com | IT (2nd Year) |
 
-</div>
 
-### **🏆 Faculty Advisors:**
-- **Virtual Lab Coordinator:** Dr. Aparna Dixit
-- **Subject Matter Expert:** Dr. Piyush Bhushan Singh
 
----
+
 
 ## 🤝 Contributing
 
@@ -313,28 +299,7 @@ Kanpur, Uttar Pradesh, India
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ```
-MIT License
 
-Copyright (c) 2024 PSIT Virtual Lab Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 ---
 
