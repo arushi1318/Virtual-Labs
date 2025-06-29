@@ -5,7 +5,7 @@
 ![PSIT Virtual Lab](https://img.shields.io/badge/PSIT-Virtual%20Lab-purple?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Contributors](https://img.shields.io/badge/Contributors-6-orange?style=for-the-badge)
+
 
 *A comprehensive virtual laboratory platform for PSIT (Pranveer Singh Institute of Technology) students, providing interactive simulations and learning materials for various computer science and engineering subjects.*
 
