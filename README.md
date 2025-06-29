@@ -9,7 +9,7 @@
 
 *A comprehensive virtual laboratory platform for PSIT (Pranveer Singh Institute of Technology) students, providing interactive simulations and learning materials for various computer science and engineering subjects.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-green?style=for-the-badge&logo=chrome)](https://arushi1318.github.io/Virtual-Labs/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-green?style=for-the-badge&logo=chrome)](https://psit-virtual-labs-d63a34.netlify.app/index1.html)
 [![Report Bug](https://img.shields.io/badge/Report%20Bug-Issue%20Tracker-red?style=for-the-badge&logo=github)](https://github.com/arushi1318/Virtual-Labs/issues)
 [![Request Feature](https://img.shields.io/badge/Request%20Feature-New%20Idea-blue?style=for-the-badge&logo=github)](https://github.com/arushi1318/Virtual-Labs/issues)
 
@@ -185,7 +185,7 @@ Each experiment follows a comprehensive learning structure:
 ## 🚀 Getting Started
 
 ### **Option 1: Direct Access (Recommended)**
-1. **Visit** [PSIT Virtual Labs](https://arushi1318.github.io/Virtual-Labs/)
+1. **Visit** [PSIT Virtual Labs](https://psit-virtual-labs-d63a34.netlify.app/index1.html)
 2. **Choose** your subject from the main dashboard
 3. **Select** any experiment to begin
 4. **Follow** the interactive instructions
