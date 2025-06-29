@@ -286,11 +286,7 @@ We welcome contributions from students, educators, and developers! Here's how yo
 
 </div>
 
-### **📍 Address:**
-**Pranveer Singh Institute of Technology**  
-Kanpur, Uttar Pradesh, India  
-📞 **Phone:** (0512) 258 0794  
-🌐 **Website:** [www.psit.ac.in](https://www.psit.ac.in/)
+
 
 ---
 
@@ -298,31 +294,13 @@ Kanpur, Uttar Pradesh, India
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
 
 
----
 
-## 🙏 Acknowledgments
 
-- **PSIT Kanpur** for providing the platform and support
-- **Faculty Advisors** for their guidance and expertise
-- **Open Source Community** for inspiration and tools
-- **Students and Educators** for feedback and suggestions
-- **GitHub** for hosting and collaboration tools
 
----
 
-## 🎉 Future Roadmap
 
-- [ ] **Mobile App** - Native mobile application
-- [ ] **VR/AR Support** - Immersive virtual reality experiments
-- [ ] **AI-Powered Tutoring** - Intelligent learning assistance
-- [ ] **Multi-Language Support** - International accessibility
-- [ ] **Advanced Analytics** - Learning progress tracking
-- [ ] **Collaborative Features** - Group experiments and discussions
-- [ ] **Cloud Integration** - Save and sync experiment data
-- [ ] **API Development** - Third-party integrations
 
 ---
 
