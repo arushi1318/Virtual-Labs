@@ -257,20 +257,9 @@ We welcome contributions from students, educators, and developers! Here's how yo
 
 ---
 
-## 📊 Project Statistics
 
-<div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/arushi1318/Virtual-Labs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/arushi1318/Virtual-Labs?style=social)
-![GitHub issues](https://img.shields.io/github/issues/arushi1318/Virtual-Labs)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/arushi1318/Virtual-Labs)
-![GitHub contributors](https://img.shields.io/github/contributors/arushi1318/Virtual-Labs)
-![GitHub last commit](https://img.shields.io/github/last-commit/arushi1318/Virtual-Labs)
 
-</div>
-
----
 
 
 
