@@ -227,27 +227,6 @@ The platform is fully responsive and works seamlessly on:
 
 ---
 
-## 👥 Meet Our Team
-
-<div align="center">
-
-| **Role** | **Name** | **Email** | **Department** |
-|----------|----------|-----------|----------------|
-| 🎯 **Team Lead** | Akshat Trivedi | akshattrivedi394@gmail.com | IT (3rd Year) |
-| 🎨 **UI/UX Developer** | Arushi Gupta | arushigupta1818@gmail.com | IT (3rd Year) |
-| 🧠 **AI/ML Specialist** | Kshama Mishra | kshamamishra1104@gmail.com | CS AI (2nd Year) |
-| 🔧 **Backend Developer** | Dhruv Tripathi | 01dhruvtripathi@gmail.com | IT (2nd Year) |
-| 🎛️ **Electronics Expert** | Gagandeep Singh | gagandeep_singh@ieee.org | IT (2nd Year) |
-| 📊 **Data Analyst** | Anshika Srivastava | anshika.srivastava1803@gmail.com | IT (2nd Year) |
-
-</div>
-
-### **🏆 Faculty Advisors:**
-- **Virtual Lab Coordinator:** Dr. Aparna Dixit
-- **Subject Matter Expert:** Dr. Piyush Bhushan Singh
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from students, educators, and developers! Here's how you can help:
@@ -267,107 +246,17 @@ We welcome contributions from students, educators, and developers! Here's how yo
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-### **📝 Code of Conduct:**
-- Be respectful and inclusive
-- Provide constructive feedback
-- Follow existing code style
-- Test your changes thoroughly
-
----
-
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/arushi1318/Virtual-Labs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/arushi1318/Virtual-Labs?style=social)
-![GitHub issues](https://img.shields.io/github/issues/arushi1318/Virtual-Labs)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/arushi1318/Virtual-Labs)
-![GitHub contributors](https://img.shields.io/github/contributors/arushi1318/Virtual-Labs)
-![GitHub last commit](https://img.shields.io/github/last-commit/arushi1318/Virtual-Labs)
-
-</div>
-
----
-
-## 📞 Contact & Support
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail)](mailto:psitvirtual@example.com)
-[![Website](https://img.shields.io/badge/Website-PSIT%20Kanpur-green?style=for-the-badge&logo=chrome)](https://www.psit.ac.in/)
-[![Issues](https://img.shields.io/badge/Issues-Report%20Problem-red?style=for-the-badge&logo=github)](https://github.com/arushi1318/Virtual-Labs/issues)
-
-</div>
-
-### **📍 Address:**
-**Pranveer Singh Institute of Technology**  
-Kanpur, Uttar Pradesh, India  
-📞 **Phone:** (0512) 258 0794  
-🌐 **Website:** [www.psit.ac.in](https://www.psit.ac.in/)
-
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2024 PSIT Virtual Lab Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 🙏 Acknowledgments
-
-- **PSIT Kanpur** for providing the platform and support
-- **Faculty Advisors** for their guidance and expertise
-- **Open Source Community** for inspiration and tools
-- **Students and Educators** for feedback and suggestions
-- **GitHub** for hosting and collaboration tools
-
----
-
-## 🎉 Future Roadmap
-
-- [ ] **Mobile App** - Native mobile application
-- [ ] **VR/AR Support** - Immersive virtual reality experiments
-- [ ] **AI-Powered Tutoring** - Intelligent learning assistance
-- [ ] **Multi-Language Support** - International accessibility
-- [ ] **Advanced Analytics** - Learning progress tracking
-- [ ] **Collaborative Features** - Group experiments and discussions
-- [ ] **Cloud Integration** - Save and sync experiment data
-- [ ] **API Development** - Third-party integrations
-
----
-
 <div align="center">
 
 **⭐ If you find this project helpful, please give it a star! ⭐**
 
 **Made with ❤️ for PSIT Students**
-
-![PSIT Logo](logo.png)
 
 *Empowering education through virtual experimentation*
 
